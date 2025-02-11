@@ -1,12 +1,8 @@
-import Image from "next/image";
-import {BackgroundLinesDemo} from "@/components/HeroSection";
-import TextGenerateEffectDemo from "@/components/Letsee";
 
 import VortexDemo from "./About/page";
 import WobbleCardDemo from "./our-service/page";
 
 import StickyScrollRevealDemo from "@/components/Vison";
-import WavyBackgroundDemo from "@/components/Contact";
 import {BackgroundBeamsWithCollisionDemo} from "@/components/Home";
 
 

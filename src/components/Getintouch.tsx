@@ -1,7 +1,6 @@
 "use client";
 import React from "react";
 import { AnimatedTooltip } from "./ui/animated-tooltip";
-import { link } from "fs";
 const details = [
   {
     id: 1,

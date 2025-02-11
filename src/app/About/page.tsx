@@ -1,9 +1,7 @@
 "use client"
 import React from "react";
 import { Vortex } from "@/components/ui/vortex";
-import Link from "next/link";
 import CarouselDemo from "@/components/Experties";
-import TypewriterEffectSmoothDemo from "@/components/Typewriter";
 function VortexDemo() {
   return (
     <div className="w-[calc(100%-4rem)] mx-auto rounded-lg h-[50rem] overflow-hidden bg-black/90 shadow-2xl relative pt-16">
