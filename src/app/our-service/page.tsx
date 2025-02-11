@@ -3,7 +3,7 @@ import Image from "next/image";
 import React from "react";
 import { WobbleCard } from "@/components/ui/wobble-card";
 
-export function WobbleCardDemo() {
+function WobbleCardDemo() {
   return (
     <div className="grid grid-cols-1 lg:grid-cols-3 gap-4 max-w-7xl mx-auto w-full py-12 pt-36">
       <WobbleCard
