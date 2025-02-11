@@ -1,0 +1,44 @@
+{
+  "industires": [
+    {
+      "id": 1,
+      "title": "Manufacturing",
+      "image": "/Img/MANUFACTURING.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Trading",
+      "image": "/Img/Trade.jpg"
+    },
+    {
+      "id": 3,
+      "title": "E-commerce",
+      "image": "/Img/E-COMMERCE.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Startups & SMEs",
+      "image": "/Img/SME.png"
+    },
+    {
+      "id": 5,
+      "title": "NGOs and Trusts",
+      "image": "/Img/NGO.webp"
+    },
+    {
+      "id": 6,
+      "title": "Hospitality",
+      "image": "/Img/HOSPITALITY.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Realestate",
+      "image": "/Img/REALESTATE.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Retail-Traders",
+      "image": "/Img/RETAIL-TRADERS.jpg"
+    }
+  ]
+}
