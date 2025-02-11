@@ -34,7 +34,7 @@ function ThreeDCardDemo() {
         </CardContainer>
       ))}
     </div>
-    <p className="text-lg md:text-4xl text-center font-sans font-bold mb-8 p-20 text-white">No matter your industry, our solutions are designed to align with your specific goals and compliance needs."</p>
+    <p className="text-lg md:text-4xl text-center font-sans font-bold mb-8 p-20 text-white">No matter your industry, our solutions are designed to align with your specific goals and compliance needs.</p>
   </div>
 );
 }
